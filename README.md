@@ -14,7 +14,8 @@ Advanced Digital Systems Lab
 Spring 2013
 ```
 ***
-DEMO
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=hO_E-P2LmRk" target="_blank">
+CLICK TO SEE OUR DEMO ON YOUTUBE</a>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hO_E-P2LmRk
 " target="_blank"><img src="http://img.youtube.com/vi/hO_E-P2LmRk/2.jpg" 
