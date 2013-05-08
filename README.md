@@ -1,9 +1,8 @@
 TeleRoboMimicry
 ===============
 
-##Matthew R. Johnson
-
-##Eric C. Badger
+###Matthew R. Johnson
+###Eric C. Badger
 
 University of Illinois
 
